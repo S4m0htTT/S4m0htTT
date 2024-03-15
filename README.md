@@ -56,8 +56,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=S4m0htTT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4m0htTT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=S4m0htTT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4m0htTT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4m0htTT&radius=16&theme=github-compact&area=true&order=5&hide_border=true&line=5DDF20&point=5DDF20&area_color=A4E685" height="300" alt="activity-graph graph"  />
 </div>
 
