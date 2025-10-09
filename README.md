@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Thomas Henry<br>🔭 I’m currently studying Science Computing<br>🌱 I’m currently learning HTML, CSS, TypeScript, Next.js, React.js, PHP, SQL, …<br>📫 How to reach me, thomashenry7750@gmail.com
+👋 Hi, I’m Thomas Henry<br>🔭 I’m currently studying Science Computing<br>🌱 I’m currently learning HTML, CSS, TypeScript, Next.js, React.js, PHP, SQL, …<br>📫 How to reach me, henrythomas7750@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thomas-henry-8a9652256/) 
